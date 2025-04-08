@@ -17,4 +17,4 @@ def login(username, password):
         print("Login failed.")
 
 if __name__ == "__main__":
-    login("greenuser", "green123")
+    login("greenuser", "green123","http://ftp.greenanimalsbank.com:2222")
