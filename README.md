@@ -9,4 +9,5 @@ Includes:
 - Transaction logging
 - Simulated credentials and configs for testing
 
-Author: Fatih
+Author: Victor
+
